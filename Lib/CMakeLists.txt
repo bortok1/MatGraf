@@ -10,7 +10,7 @@ file(GLOB_RECURSE HEADER_FILES
         *.h
         *.hpp)
 
-add_library(${PROJECT_NAME} ${HEADER_FILES} ${SOURCE_FILES} src/Calc/wektor.cpp include/Calc/wektor.h)
+add_library(${PROJECT_NAME} ${HEADER_FILES} ${SOURCE_FILES} src/Calc/Vector.cpp include/Calc/Vector.h)
 
 INCLUDE(FindPkgConfig)
 

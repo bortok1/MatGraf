@@ -107,13 +107,13 @@
 	[
 		{
 			"backtrace" : 1,
-			"path" : "Lib/include/Calc/wektor.h",
+			"path" : "Lib/include/Calc/Vector.h",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Lib/src/Calc/wektor.cpp",
+			"path" : "Lib/src/Calc/Vector.cpp",
 			"sourceGroupIndex" : 1
 		}
 	],

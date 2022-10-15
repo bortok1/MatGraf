@@ -77,8 +77,8 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build cmake_object_order_depends_target_Lib: phony || Lib/CMakeFiles/Lib.dir
 
-build Lib/CMakeFiles/Lib.dir/src/Calc/wektor.cpp.obj: CXX_COMPILER__Lib_Debug C$:/Users/Bortok/Documents/GitHub/MatGraf/Lib/src/Calc/wektor.cpp || cmake_object_order_depends_target_Lib
-  DEP_FILE = Lib\CMakeFiles\Lib.dir\src\Calc\wektor.cpp.obj.d
+build Lib/CMakeFiles/Lib.dir/src/Calc/Vector.cpp.obj: CXX_COMPILER__Lib_Debug C$:/Users/Bortok/Documents/GitHub/MatGraf/Lib/src/Calc/Vector.cpp || cmake_object_order_depends_target_Lib
+  DEP_FILE = Lib\CMakeFiles\Lib.dir\src\Calc\Vector.cpp.obj.d
   FLAGS = -g -std=gnu++23
   INCLUDES = -IC:/Users/Bortok/Documents/GitHub/MatGraf/Lib/include
   OBJECT_DIR = Lib\CMakeFiles\Lib.dir
@@ -92,7 +92,7 @@ build Lib/CMakeFiles/Lib.dir/src/Calc/wektor.cpp.obj: CXX_COMPILER__Lib_Debug C$
 #############################################
 # Link the static library Lib\libLib.a
 
-build Lib/libLib.a: CXX_STATIC_LIBRARY_LINKER__Lib_Debug Lib/CMakeFiles/Lib.dir/src/Calc/wektor.cpp.obj
+build Lib/libLib.a: CXX_STATIC_LIBRARY_LINKER__Lib_Debug Lib/CMakeFiles/Lib.dir/src/Calc/Vector.cpp.obj
   LANGUAGE_COMPILE_FLAGS = -g
   OBJECT_DIR = Lib\CMakeFiles\Lib.dir
   POST_BUILD = cd .
