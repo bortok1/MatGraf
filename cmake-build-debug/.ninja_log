@@ -1,0 +1,5 @@
+# ninja log v5
+0	44	6875564966016537	Lib/CMakeFiles/Lib.dir/src/Calc/wektor.cpp.obj	9c975c511237938a
+4	65	6875564966232305	Main/CMakeFiles/RealisticEngine.dir/main.cpp.obj	714738ea6c1601cf
+45	147	6875564967051781	Lib/libLib.a	76457133ba23b962
+147	247	6875564967752117	Main/RealisticEngine.exe	6f476c3bc303f047

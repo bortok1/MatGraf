@@ -1,0 +1,8 @@
+C:/Users/Bortok/Documents/GitHub/MatGraf/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bortok/Documents/GitHub/MatGraf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Bortok/Documents/GitHub/MatGraf/cmake-build-debug/Lib/CMakeFiles/Lib.dir
+C:/Users/Bortok/Documents/GitHub/MatGraf/cmake-build-debug/Lib/CMakeFiles/edit_cache.dir
+C:/Users/Bortok/Documents/GitHub/MatGraf/cmake-build-debug/Lib/CMakeFiles/rebuild_cache.dir
+C:/Users/Bortok/Documents/GitHub/MatGraf/cmake-build-debug/Main/CMakeFiles/MatGraf.dir
+C:/Users/Bortok/Documents/GitHub/MatGraf/cmake-build-debug/Main/CMakeFiles/edit_cache.dir
+C:/Users/Bortok/Documents/GitHub/MatGraf/cmake-build-debug/Main/CMakeFiles/rebuild_cache.dir
